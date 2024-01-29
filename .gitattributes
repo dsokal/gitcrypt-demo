@@ -1,0 +1,1 @@
+prod.tfvars filter=git-crypt diff=git-crypt
